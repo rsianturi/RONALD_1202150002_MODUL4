@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Ronald_1202150002_Modul4</string>
+    <string-array name="namaMhs">
+        <item>Dinan</item>
+        <item>Poltak</item>
+        <item>Hasudungan</item>
+        <item>Ginting</item>
+        <item>Manik</item>
+        <item>Olive</item>
+        <item>Ivan Daniel</item>
+        <item>Jonathan</item>
+        <item>Brenda</item>
+        <item>Irene Anggreani</item>
+        <item>Sherly</item>
+        <item>Judo</item>
+        <item>Anthon</item>
+
+    </string-array>
+</resources>
