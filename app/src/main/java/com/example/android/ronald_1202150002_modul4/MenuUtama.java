@@ -15,6 +15,7 @@ public class MenuUtama extends AppCompatActivity {
 
     public void nama(View view) {
         Intent i = new Intent(this, MainActivity.class);
+        startActivity(i);
     }
 
     public void Gambar(View view) {
